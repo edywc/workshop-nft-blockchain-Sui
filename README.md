@@ -2,7 +2,7 @@
 
 Projeto desenvolvido durante o workshop "Guia Completo: Criando um NFT na Blockchain Sui" em Pau dos Ferros - RN
 
-## 🎯 Objetivo
+## 🎯 Objetivo do workshop
 
 Este projeto ensina como criar um NFT na blockchain Sui utilizando a linguagem Move. 
 
